@@ -1,4 +1,4 @@
-# medium-i18n
+# Manage i18n translations with Google Sheet and its add-on Export Sheet Data
 
 ## Project setup
 ```
@@ -18,6 +18,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Build languages files
+```
+npm run i18n:build
 ```
 
 ### Customize configuration
