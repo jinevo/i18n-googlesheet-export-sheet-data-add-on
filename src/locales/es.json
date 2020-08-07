@@ -1,0 +1,17 @@
+{
+  "actions": {
+    "add": "Añadir",
+    "delete": "Suprimir"
+  },
+  "state": {
+    "waiting": "Espere un momento...",
+    "done": "Hecho!"
+  },
+  "greetings": {
+    "hello-firstname": "Hola {firstname}"
+  },
+  "shop-list": {
+    "title": "Maneje su lista de compras",
+    "product-name": "Nombre del producto"
+  }
+}

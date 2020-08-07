@@ -1,0 +1,17 @@
+{
+  "actions": {
+    "add": "Ajouter",
+    "delete": "Supprimer"
+  },
+  "state": {
+    "waiting": "Veuillez patienter...",
+    "done": "C'est bon !"
+  },
+  "greetings": {
+    "hello-firstname": "Bonjour {firstname}"
+  },
+  "shop-list": {
+    "title": "Gérez votre liste de cours",
+    "product-name": "Nom du produit"
+  }
+}

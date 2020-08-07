@@ -1,0 +1,45 @@
+{
+    "actions": {
+        "add": {
+            "en": "Add",
+            "fr": "Ajouter",
+            "es": "Añadir"
+        },
+        "delete": {
+            "en": "Delete",
+            "fr": "Supprimer",
+            "es": "Suprimir"
+        }
+    },
+    "state": {
+        "waiting": {
+            "en": "Please wait...",
+            "fr": "Veuillez patienter...",
+            "es": "Espere un momento..."
+        },
+        "done": {
+            "en": "Done!",
+            "fr": "C'est bon !",
+            "es": "Hecho!"
+        }
+    },
+    "greetings": {
+        "hello-firstname": {
+            "en": "Hello {firstname}",
+            "fr": "Bonjour {firstname}",
+            "es": "Hola {firstname}"
+        }
+    },
+    "shop-list": {
+        "title": {
+            "en": "Manage your shop list",
+            "fr": "Gérez votre liste de cours",
+            "es": "Maneje su lista de compras"
+        },
+        "product-name": {
+            "en": "Product name",
+            "fr": "Nom du produit",
+            "es": "Nombre del producto"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "actions": {
+    "add": "Add",
+    "delete": "Delete"
+  },
+  "state": {
+    "waiting": "Please wait...",
+    "done": "Done!"
+  },
+  "greetings": {
+    "hello-firstname": "Hello {firstname}"
+  },
+  "shop-list": {
+    "title": "Manage your shop list",
+    "product-name": "Product name"
+  }
+}
